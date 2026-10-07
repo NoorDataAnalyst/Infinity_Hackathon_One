@@ -3,7 +3,7 @@
 
 **The Infinity Hack '26: AI Project Manager Challenge**
 
-Team: `[Your team name]` | Members: `[Name 1, Name 2, Name 3]` | Live demo: `[https://your-app-link]`
+
 
 ---
 
